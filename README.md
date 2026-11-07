@@ -16,6 +16,3 @@
   <span style="color:#ad9cbb">ε♡з</span>
 </p>
 
-<p align="center">
-  <img src="./profile-text-colored.svg" alt="5teen iwc c+h is ok usually s-afk">
-</p>
