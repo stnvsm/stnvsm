@@ -12,5 +12,6 @@ $${\color{#e8bbe2}usually\space s-afk\space \space}$$
 $${\color{#ad9cbb}w2i\space \space}$$
 
 <p align="center">
-  <a href="https://rennxd.atabook.org/">新book strawpage</a>
+  <a href=“rennxd.atabook.org">新book</a>
+  <a href="https://p1xelpoisonzz.straw.page">strawpage</a>
 </p>
