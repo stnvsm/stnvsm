@@ -2,8 +2,7 @@
 
 
 
-<p align="center">
-  <span style="color:#916a9c">5teen</span>
+  $${\color{#916a9c}5teen:made\space by\space}$$
   <span style="color:#dcdbce">iwc</span>
   <span style="color:#d89ac2">c+h</span>
   <span style="color:#d89ac2">is</span>
