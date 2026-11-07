@@ -5,34 +5,9 @@
 
 
 
-<table>
-<tr>
-<td width="60%" align="center">
 
-<img src="<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/1e2c3491-857b-4bdf-92bf-a6e191fb48ee" />
-" width="100%" />
 
-</td>
 
-<td width="40%" align="center">
-
-<div style="border:50px solid #916a9c; padding:15px;">
-
-<h3>$$\color{#916a9c}{5teen}$$</h3>
-
-<hr>
-
-<p>$$\color{#dcdbce}{iwcuf}$$</p>
-
-<p>$$\color{#d89ac2}{usually s-afk}$$</p>
-
-<p>$$\color{#e8bbe2}{c+h is ok}$$</p>
-
-</div>
-
-</td>
-</tr>
-</table>
 
   $${\color{#916a9c}5teen\space \space}$$
 $${\color{#dcdbce}iwcuf\space \space}$$  
@@ -51,3 +26,4 @@ $${\color{#ad9cbb}w2i\space \space}$$
 </a>
 
 </p>
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/2622d06c-267c-481c-a636-8f64cee6890e" />
