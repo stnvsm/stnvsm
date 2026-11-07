@@ -2,14 +2,8 @@
 
 
 
-  $${\color{#916a9c}5teen:\space \space}$$
-$${\color{#dcdbce}iwcuf:\space \space}$$  
-  $${\color{#d89ac2}c+h is ok:\space \space}$$ 
-style="color:#e8bbe2">usually</span>
-  <span style="color:#e8bbe2">s-afk</span>
-</p>
-
-<p align="center">
-  <span style="color:#ad9cbb">ε♡з</span>
-</p>
-
+  $${\color{#916a9c}5teen\space \space}$$
+$${\color{#dcdbce}iwcuf\space \space}$$  
+  $${\color{#d89ac2}c+h is ok\space \space}$$ 
+$${\color{#e8bbe2}usually s-afk\space \space}$$
+$${\color{#ad9cbb}w2i\space \space}$$
