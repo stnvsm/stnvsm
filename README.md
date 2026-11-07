@@ -2,7 +2,6 @@
 
 
 
-```html
 <p align="center">
   <span style="color:#916a9c">5teen</span>
   <span style="color:#dcdbce">iwc</span>
@@ -16,4 +15,4 @@
 <p align="center">
   <span style="color:#ad9cbb">ε♡з</span>
 </p>
-```
+
