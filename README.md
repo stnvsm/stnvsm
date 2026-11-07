@@ -11,5 +11,6 @@ $${\color{#dcdbce}iwcuf\space \space}$$
 $${\color{#e8bbe2}usually\space s-afk\space \space}$$
 $${\color{#ad9cbb}w2i\space \space}$$
 
-[新book](https://rennxd.atabook.org/)
-[strawpage](https://p1xelpoisonzz.straw.page/)
+<p align="center">
+  <a href="https://rennxd.atabook.org/">新book strawpage</a>
+</p>
