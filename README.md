@@ -13,7 +13,8 @@ $${\color{#ad9cbb}w2i\space \space}$$
 
 <p align="center">
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0f221280-5f12-497d-99d8-978777d6f85b" /><a href=“rennxd.atabook.org">新book</a>
-  <a <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5d74dc86-4cbc-4913-bb66-0fcbe58c072a" />
+  <a
+  />
 href="https://p1xelpoisonzz.straw.page">strawpage</a><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cc9f128d-a6d4-4663-b620-b65ccd4f3fa0" />
 
-</p> m
+</p> 
