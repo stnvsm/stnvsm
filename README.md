@@ -6,23 +6,32 @@
 
 
 <table>
-  <tr>
-    <td width="60%">
-      <img src="<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/76e9177d-244a-4c3e-8aa8-6a15c6f34602" />
-" width="100%">
-    </td>
+<tr>
+<td width="60%" align="center">
 
-    <td width="40%" align="center">
-      <h3>  $${\color{#916a9c}5teen\space \space}$$</h3>
-      <hr>
-      <p>$${\color{#dcdbce}iwcuf\space \space}$$</p>
-      <p>$${\color{#d89ac2}c+h\space is\space ok\space \space}$$</p>
-      <p>int/$${\color{#e8bbe2}usually\space s-afk\space \space}$$</p>
-      <p></p>
-      <hr>
-      
-    </td>
-  </tr>
+<img src="<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/1e2c3491-857b-4bdf-92bf-a6e191fb48ee" />
+" width="100%" />
+
+</td>
+
+<td width="40%" align="center">
+
+<div style="border:2px solid #916a9c; padding:15px;">
+
+<h3>$$\color{#916a9c}{5teen}$$</h3>
+
+<hr>
+
+<p>$$\color{#dcdbce}{iwcuf}$$</p>
+
+<p>$$\color{#d89ac2}{usually s-afk}$$</p>
+
+<p>$$\color{#e8bbe2}{c+h is ok}$$</p>
+
+</div>
+
+</td>
+</tr>
 </table>
 
   $${\color{#916a9c}5teen\space \space}$$
