@@ -14,11 +14,14 @@ $${\color{#ad9cbb}w2i\space \space}$$
 <p align="center">
 
 <a href="https://rennxd.atabook.org">
-  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0f221280-5f12-497d-99d8-978777d6f85b" /> 新book
+  <img width="20" src="ATABOOK_IMAGE_LINK" /> 新book
 </a>
 
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a7c73382-bdbe-4930-acc6-e032243a5790" />
+" />
+
 <a href="https://p1xelpoisonzz.straw.page">
-  strawpage <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cc9f128d-a6d4-4663-b620-b65ccd4f3fa0" />
+  strawpage <img width="20" src="STRAWPAGE_IMAGE_LINK" />
 </a>
 
 </p>
