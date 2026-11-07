@@ -5,5 +5,5 @@
   $${\color{#916a9c}5teen\space \space}$$
 $${\color{#dcdbce}iwcuf\space \space}$$  
   $${\color{#d89ac2}c+h\space is\space ok\space \space}$$ 
-$${\color{#e8bbe2}usually s-afk\space \space}$$
+$${\color{#e8bbe2}usually\space s-afk\space \space}$$
 $${\color{#ad9cbb}w2i\space \space}$$
