@@ -10,6 +10,6 @@ $${\color{#dcdbce}iwcuf\space \space}$$
   $${\color{#d89ac2}c+h\space is\space ok\space \space}$$ 
 $${\color{#e8bbe2}usually\space s-afk\space \space}$$
 $${\color{#ad9cbb}w2i\space \space}$$
-<p align center=“center”>
+
 [新book](https://rennxd.atabook.org/)
-[strawpage](https://p1xelpoisonzz.straw.page/) </p>
+[strawpage](https://p1xelpoisonzz.straw.page/)
