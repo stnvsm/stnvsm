@@ -8,7 +8,7 @@
 
 
 
-
+$${\color{#d1bab6}ren/denisspace \space}$$
   $${\color{#916a9c}5teen\space \space}$$
 $${\color{#dcdbce}iwcuf\space \space}$$  
   $${\color{#d89ac2}c+h\space is\space ok\space \space}$$ 
