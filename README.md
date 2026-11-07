@@ -16,7 +16,7 @@
 
 <td width="40%" align="center">
 
-<div style="border:2px solid #916a9c; padding:15px;">
+<div style="border:50px solid #916a9c; padding:15px;">
 
 <h3>$$\color{#916a9c}{5teen}$$</h3>
 
