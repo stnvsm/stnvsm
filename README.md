@@ -2,12 +2,10 @@
 
 
 
-  $${\color{#916a9c}5teen:made\space by\space}$$
-  <span style="color:#dcdbce">iwc</span>
-  <span style="color:#d89ac2">c+h</span>
-  <span style="color:#d89ac2">is</span>
-  <span style="color:#d89ac2">ok</span>
-  <span style="color:#e8bbe2">usually</span>
+  $${\color{#916a9c}5teen:\space \space}$$
+$${\color{#dcdbce}iwcuf:\space \space}$$  
+  $${\color{#d89ac2}c+h is ok:\space \space}$$ 
+style="color:#e8bbe2">usually</span>
   <span style="color:#e8bbe2">s-afk</span>
 </p>
 
